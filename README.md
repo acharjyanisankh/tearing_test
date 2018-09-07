@@ -1,5 +1,7 @@
 # tearing_test
 
+Videos in youtube or some online available videos for tearing test are not reliable .
+
 # How to
 
 1. Clone the repository into your system and open the index.html file using any web browser to begin the test
