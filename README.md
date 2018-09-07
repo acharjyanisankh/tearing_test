@@ -13,3 +13,5 @@ OR
 # Contact me
 
 Install ZeroNet crypto blockchain based network in your system and than open http://127.0.0.1:43110/Mail.ZeroNetwork.bit/ and mail me at #nisankh@zeroid.bit
+
+Ready to Test visit http://nisankhacharjya.me/downloads/tearingtest.html
